@@ -6,6 +6,7 @@ n2 = 4
 n3 = n1 + n2 
 print("add" ,n3);
 print("subtract",n3)
+print("multiply",n3)
 # All Vagrant configuration is done below. The "2" in Vagrant.configure
 # configures the configuration version (we support older styles for
 # backwards compatibility). Please don't change it unless you know what
